@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Falumpaset
-- 👀 I’m interested in peer 2 peer networking, Webassembly and Kubernetes
+- 👀 I’m interested in WebAssembly, Rust and Serverless COmputing
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to dive into Webassembly
+- 💞️ I’m looking to dive into making a business
 - 📫 How to reach me Discord: Falumpaset#5191
 
 <!---
