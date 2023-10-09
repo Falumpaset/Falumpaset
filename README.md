@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Falumpaset
-- 👀 I’m interested in WebAssembly, Rust and Serverless COmputing
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to dive into making a business
+- 👀 I’m interested in WebAssembly, Rust and Serverless Computing
 - 📫 How to reach me Discord: Falumpaset#5191
 
 <!---
